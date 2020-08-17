@@ -6,7 +6,6 @@ module.exports = {
       '@controllers': './src/controllers',
       '@models': './src/models',
       '@config': './src/config',
-      '@views': './src/views'
     }
   }]],
   ignore: ['**/*.spec.ts']
