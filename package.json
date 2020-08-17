@@ -27,6 +27,7 @@
     "babel-plugin-module-resolver": "^4.0.0",
     "commitizen": "^4.1.2",
     "cz-conventional-changelog": "^3.2.0",
+    "dotenv": "^8.2.0",
     "eslint": "^7.7.0",
     "eslint-config-standard": "^14.1.1",
     "eslint-plugin-import": "^2.22.0",
@@ -35,9 +36,11 @@
     "eslint-plugin-standard": "^4.0.1",
     "husky": "^4.2.5",
     "jest": "^26.4.0",
+    "reflect-metadata": "^0.1.13",
     "ts-jest": "^26.2.0",
     "ts-node-dev": "^1.0.0-pre.57",
     "tsconfig-paths": "^3.9.0",
+    "typeorm": "^0.2.25",
     "typescript": "^3.9.7"
   },
   "dependencies": {
